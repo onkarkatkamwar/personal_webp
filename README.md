@@ -1,2 +1,2 @@
 # personal_webp
-Author - Onkar Katkamwar
+Author - Onkar K
