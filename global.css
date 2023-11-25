@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inria-serif: "Inria Serif";
+  
+    /* font sizes */
+    --font-size-12xl-5: 31.5px;
+    --font-size-41xl-8: 60.8px;
+    --font-size-77xl: 96px;
+  
+    /* Colors */
+    --color-black: #000;
+  }
+  
